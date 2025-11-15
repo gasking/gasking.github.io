@@ -14,7 +14,6 @@ For collaborations or inquiries, please feel free to contact me via email.
 #  &#128218; Selected Publications
 
 \* and † denote a corresponding author and an equal-contribution author, respectively.
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='../images/PTDA.png' alt="sym" width="100% height=100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
