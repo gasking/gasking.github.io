@@ -8,37 +8,6 @@ author_profile: true
  # - /about.html
 ---
 
----
-permalink: /
-title: "Visual team"
-excerpt: "News"
-author_profile: true
-#redirect_from: 
-  #- /about/
- # - /about.html
----
-
----
-permalink: /
-title: "Visual team"
-excerpt: "Publications"
-excerpt: "Reviewer"
-author_profile: true
-#redirect_from: 
-  #- /about/
- # - /about.html
----
-
-
----
-permalink: /
-title: "Visual team"
-excerpt: "Reviewer"
-author_profile: true
-#redirect_from: 
-  #- /about/
- # - /about.html
----
 
 #  &#x1F600; About Me
 I am currently pursuing my M.S. degree at Yangtze University (09/2023 – present), supervised by Associate Professor [Xianjun Gao (高贤君)](https://docs.qq.com/doc/p/76da31c6cda04500fe45b018397cd66127051a55?dver=3.0.27429706). Previously, I received my B.S.  degree from Xiangnan University (09/2018-06/2022), under the supervision of Professor [Dong Liu (刘东)](https://rtxy.xnu.edu.cn/2021_05/31_09/content-59431.html).
@@ -53,12 +22,9 @@ For collaborations or inquiries, please feel free to contact me via email.
 - *04/2025*: &nbsp;  &#127881; &#127881; Two paper about Segmentation (*Ultra-lightweight Semantic Segmentation for Remote Sensing Imagery; Fourier-Based Learning for Medical Image Segmentation*) accepted to ***KBS 2025***.
 
 #  &#128218; Selected Publications
-
 \* and † denote a corresponding author and an equal-contribution author, respectively.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='../images/PTDA.png' alt="sym" width="100% height=100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-
 
 *PTDA: Progressive Pseudo-Label Learning for Cross-Domain Cloud Detection in High-Resolution Remote Sensing* [[PDF]](https://ieeexplore.ieee.org/document/10998457/) [[Code]](https://github.com/gasking/PTDA)
 
@@ -98,7 +64,6 @@ remote sensing images* [[PDF]](https://www.sciencedirect.com/science/article/abs
 *Uncertainty-Aware Spatial Color Correlation for Low-Light Image Enhancement* [[PDF]](https://www.arxiv.org/abs/2508.04176) [[Code]](https://github.com/promisedong/U2CLLIE)
 
 **Jin Kuang**, Dong Liu*, Yukuang Zhang, Shengsheng Wang
-
 </div>
 </div>
 
