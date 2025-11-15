@@ -1,7 +1,10 @@
 ---
 permalink: /
 title: "Visual team"
-excerpt: ""
+excerpt: "About Me"
+excerpt: "News"
+excerpt: "Publications"
+excerpt: "Reviewer"
 author_profile: true
 #redirect_from: 
   #- /about/
