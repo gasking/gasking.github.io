@@ -71,3 +71,11 @@ remote sensing images* [[PDF]](https://www.sciencedirect.com/science/article/abs
 #  &#128269; Reviewer
 - AAAI Conference on Artificial Intelligence (AAAI)
 - Knowledge-Based Systems (KBS)
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge"></div>
+<img src='../images/kbs.png' alt="sym" width="100%">
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
