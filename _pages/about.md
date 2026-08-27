@@ -11,7 +11,7 @@ author_profile: true
 
 #  &#x1F393; About Me
 
-<p style="text-align: justify;">I am currently pursuing a Ph.D. degree at the School of Computer Science and Engineering, Central South University(CSU), under the supervision of Prof. [Kehua Guo (郭克华)](https://faculty.csu.edu.cn/guokehua/zh_CN/index.htm). My current research focuses on **image representation learning in complex scenarios**, with particular interests in **low-light image enhancement** and **image restoration** under degraded conditions. Over the past several years, I have also worked as a **Research Assistant at the Hunan Provincial Engineering Research Center for Advanced Embedded Computing and Intelligent Medical Systems**, where I conducted research on high-level vision tasks, particularly semantic segmentation, as well as domain adaptation.</p>
+<p style="text-align: justify;">I am currently pursuing a Ph.D. degree at the School of Computer Science and Engineering, Central South University (CSU), under the supervision of Prof. <a href="https://faculty.csu.edu.cn/guokehua/zh_CN/index.htm">Kehua Guo (郭克华)</a>. My research focuses on <strong>image representation learning in complex scenarios</strong>, with particular interests in <strong>low-light image enhancement</strong> and <strong>image restoration under complex degradation conditions</strong>. Previously, I worked as a <strong>Research Assistant at the Hunan Provincial Engineering Research Center for Advanced Embedded Computing and Intelligent Medical Systems</strong>, where my research involved high-level vision tasks, particularly <strong>semantic segmentation</strong>, as well as <strong>domain adaptation</strong>.</p>
 
 For collaborations or inquiries, please feel free to contact me via email.
 #  &#128227; News
@@ -28,7 +28,7 @@ For collaborations or inquiries, please feel free to contact me via email.
 *HyTBE: Hyperbolic Target-Background Expert Model for Cross-Domain Infrared
 Small Target Detection* [[PDF]]([https://www.arxiv.org/abs/2508.04176](https://arxiv.org/pdf/2608.05771)) [[Code]](https://github.com/PepperCS/HyTBE)
 
-**Aohua Li**, Jin Kuang, Yubing Lu, Pingping Liu
+Aohua Li, **Jin Kuang**, Yubing Lu, Pingping Liu
 </div>
 </div>
 
@@ -37,7 +37,7 @@ Small Target Detection* [[PDF]]([https://www.arxiv.org/abs/2508.04176](https://a
 
 *RPCASSM: Robust PCA State Space Model For Infrared Small Target Detection* [[PDF]]([https://www.arxiv.org/abs/2508.04176](https://arxiv.org/pdf/2606.01689)) [[Code]](https://github.com/PepperCS/RPCASSM)
 
-Pingping Liu, **Aohua Li**, Yubing Lu, Jin Kuang, Tongshun Zhang, Qiuzhan Zhou
+Pingping Liu, Aohua Li, Yubing Lu, **Jin Kuang**, Tongshun Zhang, Qiuzhan Zhou
 </div>
 </div>
 
