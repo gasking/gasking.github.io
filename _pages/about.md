@@ -10,13 +10,10 @@ author_profile: true
 
 
 #  &#x1F393; About Me
-I am currently pursuing my M.S. degree at Yangtze University (09/2023 – present). Previously, I received my B.S.  degree from Xiangnan University (09/2018-06/2022), under the supervision of Professor [Dong Liu (刘东)](https://promisedong.github.io/).
 
-My primary research area focuses on **Low-Level Vision** tasks, specifically **Low-Light Image Enhancement** **(LLIE)**, *where achieving strong generalization capability is the core problem we aim to address*. During my time as an **assistant research** fellow, I also conducted parallel research in other directions, including **Domain Adaptation** (with an emphasis on **High-Resolution Remote Sensing Imagery** and multi-source domain adaptation) and **Medical Image Segmentation** (targeting highly complex and variable clinical scenarios, where I achieved strong generalization performance across multiple medical datasets). I am currently applying for **Ph.D.** programs in **Computer Science**.
+<p style="text-align: justify;">I am currently pursuing a Ph.D. degree at the School of Computer Science and Engineering, Central South University(CSU), under the supervision of Prof. [Kehua Guo (郭克华)](https://faculty.csu.edu.cn/guokehua/zh_CN/index.htm). My current research focuses on **image representation learning in complex scenarios**, with particular interests in **low-light image enhancement** and **image restoration** under degraded conditions. Over the past several years, I have also worked as a **Research Assistant at the Hunan Provincial Engineering Research Center for Advanced Embedded Computing and Intelligent Medical Systems**, where I conducted research on high-level vision tasks, particularly semantic segmentation, as well as domain adaptation.</p>
 
 For collaborations or inquiries, please feel free to contact me via email.
-
-
 #  &#128227; News
 - *06/2025*: &nbsp; &#127881; &#127881; One paper about Segmentation (*Fourier-Based Learning for Medical Image Segmentation*) accepted to ***KBS 2025***.
 - *05/2025*: &nbsp; &#127881; &#127881; One paper about Domain Adapation (*Uncertainty Entropy, Pseudo-Label learning*) accepted to ***TGRS 2025***.
@@ -24,6 +21,25 @@ For collaborations or inquiries, please feel free to contact me via email.
 
 #  &#128218; Selected Publications
 \* and † denote a corresponding author and an equal-contribution author, respectively.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='../images/HyTBE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+*HyTBE: Hyperbolic Target-Background Expert Model for Cross-Domain Infrared
+Small Target Detection* [[PDF]]([https://www.arxiv.org/abs/2508.04176](https://arxiv.org/pdf/2608.05771)) [[Code]](https://github.com/PepperCS/HyTBE)
+
+**Aohua Li**, Jin Kuang, Yubing Lu, Pingping Liu
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='../images/RPCASSM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+*RPCASSM: Robust PCA State Space Model For Infrared Small Target Detection* [[PDF]]([https://www.arxiv.org/abs/2508.04176](https://arxiv.org/pdf/2606.01689)) [[Code]](https://github.com/PepperCS/RPCASSM)
+
+Pingping Liu, **Aohua Li**, Yubing Lu, Jin Kuang, Tongshun Zhang, Qiuzhan Zhou
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='../images/U2CLLIE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -72,12 +88,15 @@ remote sensing images* [[PDF]](https://www.sciencedirect.com/science/article/abs
 
 #  &#128269; Reviewer
 - AAAI Conference on Artificial Intelligence (AAAI)
+- ACM Multimedia (MM)
+- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 - Knowledge-Based Systems (KBS)
-<div class='paper-box'>
+- 
+<!-- <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
 <div class="badge"></div>
 <img src='../images/kbs.png' alt="sym" width="100%">
 </div>
 </div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="1"> -->
