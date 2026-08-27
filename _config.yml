@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jin Kuang (匡金)"
-description              : "gasquue@gmail.com"
+description              : "gasking@csu.edu.cn"
 repository               : "https://gasking.github.io/"
 google_scholar_stats_use_cdn : true
 
@@ -22,9 +22,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jin Kuang"
-  avatar           : "images/MyPhoto.png"
-  bio              : "Assistant Researcher at the Hunan Provincial Engineering Research Center for Advanced Embedded Computing Technology and Intelligent Medical Systems; M.S. Candidate at Yangtze University."
-  location         : "Wuhan, China"
+  avatar           : "images/name.jpg"
+  bio              : "Ph.D. Student, School of Computer Science and Engineering, Central South University"
+  location         : "Changsha, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Pb6NookAAAAJ&hl=zh-CN"
@@ -37,14 +37,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : https://github.com/gasking/ # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  dblp             : https://dblp.org/pid/369/9207.html # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/0009-0000-1907-8893"
   pinterest        :
   soundcloud       :
